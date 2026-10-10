@@ -1,0 +1,23 @@
+{
+  "project": {
+    "name": "",
+    "purpose": "",
+    "status": ""
+  },
+  "source_conversation": {
+    "previous_chat_content_provided": false,
+    "notes": "Fill this file using the previous chat or any files from that conversation."
+  },
+  "data": [],
+  "code": [
+    {
+      "filename": "",
+      "language": "",
+      "content": ""
+    }
+  ],
+  "settings_and_configuration": {},
+  "steps_and_workflow": [],
+  "important_notes": [],
+  "open_questions": []
+}
