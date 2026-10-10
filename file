@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UMB | My Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #101827;
+      color: white;
+      text-align: center;
+    }
+
+    header {
+      padding: 25px;
+      background: #182438;
+    }
+
+    h1 {
+      color: #73e0c1;
+      font-size: 48px;
+    }
+
+    main {
+      padding: 70px 20px;
+    }
+
+    p {
+      color: #d0d8e6;
+      font-size: 18px;
+      line-height: 1.7;
+    }
+
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 14px 24px;
+      background: #73e0c1;
+      color: #101827;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+
+    footer {
+      padding: 25px;
+      color: #b7c0d4;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h2>UMB</h2>
+  </header>
+
+  <main>
+    <h1>Welcome to My Website!</h1>
+
+    <p>
+      This is my own website.
+      I am building something new,
+      and this is just the beginning!
+    </p>
+
+    <a href="https://github.com/">Visit GitHub</a>
+  </main>
+
+  <footer>
+    My Website &copy; 2026
+  </footer>
+
+</body>
+</html>
